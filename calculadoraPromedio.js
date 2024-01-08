@@ -55,5 +55,5 @@ let nota1;
         if(promedio>=7){
             alert(nombre+" ¡Felicidades! Has aprobado con un promedio de: "+promedio);
         }else{
-            alert(nombre+" gracias por tu esfuerzo. Nos vemos pronto en clase. El promedio obtenido es: "+promedio)
+            alert(nombre+" gracias por tu esfuerzo. Nos vemos pronto en clase. El promedio obtenido es: "+promedio);
         }
